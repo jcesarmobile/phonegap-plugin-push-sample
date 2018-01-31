@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "171050319695",
+    "firebase_url": "https://phonegap-plugin-push-sam-e011d.firebaseio.com",
+    "project_id": "phonegap-plugin-push-sam-e011d",
+    "storage_bucket": "phonegap-plugin-push-sam-e011d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171050319695:android:b71f283f00051af4",
+        "android_client_info": {
+          "package_name": "es.phonegap.push.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171050319695-h490j8i2ibh8ldnrjqnfibfacrj8bp4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwleqlZJkCiNb4C1FpKforrtx6IzlANKw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
